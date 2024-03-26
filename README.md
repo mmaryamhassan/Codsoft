@@ -4,3 +4,4 @@ Welcome to the Codsoft Internship Project repository! This project is part of my
 This project is part of my internship experience, and I'm excited to share it with the community.
 PROJECTS:
 1. Simple calculator
+2. To-Do list application
