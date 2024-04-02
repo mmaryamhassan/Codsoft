@@ -5,3 +5,4 @@ This project is part of my internship experience, and I'm excited to share it wi
 PROJECTS:
 1. Simple calculator
 2. To-Do list application
+3. Password Generator
