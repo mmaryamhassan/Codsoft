@@ -6,3 +6,4 @@ PROJECTS:
 1. Simple calculator
 2. To-Do list application
 3. Password Generator
+4. Rock Paper Scissor game
